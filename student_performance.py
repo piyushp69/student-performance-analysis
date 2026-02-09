@@ -103,11 +103,11 @@ sns.regplot(
 )
 plt.title("How Study Hours affects Final Grade")
 plt.show()
-#  ek improvement = final-initail / study hours based on working means sleep hrs graph
+
 
 
 df["Improvement"] = df["Final_Grade"] - df["Previous_Grade"]
-# df["Sleepy_study"] = df["Study_Hours"]/df["Sleep_Hours"]
+
 
 plt.figure(figsize=(8,5))
 sns.scatterplot(
