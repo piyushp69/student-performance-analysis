@@ -84,6 +84,9 @@ These features help measure student growth and balance between effort and rest.
 
 Each visualization is designed to answer a specific analytical question.
 
+
+<img width="771" height="632" alt="image" src="https://github.com/user-attachments/assets/cc845d92-c492-4397-847a-73e2b0143bea" />
+
 ---
 
 ## 🚀 How to Run the Project
