@@ -86,6 +86,9 @@ Each visualization is designed to answer a specific analytical question.
 
 
 <img width="771" height="632" alt="image" src="https://github.com/user-attachments/assets/cc845d92-c492-4397-847a-73e2b0143bea" />
+<img width="764" height="580" alt="image" src="https://github.com/user-attachments/assets/22da7b7d-d7e1-430d-b4c5-05b653095bf3" />
+<img width="858" height="572" alt="image" src="https://github.com/user-attachments/assets/8e5e4111-7dcc-40de-b0bb-f40215039b35" />
+<img width="840" height="575" alt="image" src="https://github.com/user-attachments/assets/2392b7a4-2ead-40b0-b6e7-c4824631c2f8" />
 
 ---
 
